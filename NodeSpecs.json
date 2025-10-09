@@ -1,0 +1,13 @@
+﻿{
+    "RAM_GB":  5.89,
+    "Storage":  {
+                    "DeviceID":  "C:",
+                    "SizeGB":  928.47,
+                    "FreeSpaceGB":  851.33
+                },
+    "OS":  "Microsoft Windows 10 Home",
+    "GPU":  "Intel(R) HD Graphics 520",
+    "ComputerName":  "DESKTOP-FFF143T",
+    "OSVersion":  "10.0.17134",
+    "CPU":  "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz"
+}
