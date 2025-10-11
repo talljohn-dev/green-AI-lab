@@ -31,4 +31,15 @@
 
 ---
 
+## 📸 Visual Verification
+
+| Screenshot | Description |
+|-------------|--------------|
+| ![Disk Cleanup](./screenshots/disk_cleanup.png) | Temporary and system files removed to recover storage space |
+| ![System Information](./screenshots/system_info.png) | Verified system specifications before Ubuntu installation |
+| ![task manager before](./screenshots/task_manager_before.png) | Verified Startup bloatware enabled before windows optimization on node 1 |
+| ![task manager after](./screenshots/task_manager_after.png) | Verified Startup bloatware disabled after windows optimization on node 1 |
+
+---
+
 **Next Step:** Install Ubuntu Server dual-boot and convert this node to your first Green AI Lab server.
