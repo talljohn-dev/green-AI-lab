@@ -1,0 +1,30 @@
+{
+  "module": "01_windows_optimization",
+  "system": {
+    "device": "HP Notebook X7T50UA#ABA",
+    "os": "Windows 10 Home 64-bit",
+    "cpu": "Intel Core i3-6100U @ 2.3GHz",
+    "ram_gb": 6,
+    "bios": "Insyde F.17 (2016-09-01)"
+  },
+  "optimizations_performed": [
+    "Startup cleanup",
+    "Disk cleanup",
+    "System File Check (SFC)",
+    "CHDSK drive verification",
+    "Disabled visual effects",
+    "Enabled performance power plan"
+  ],
+  "performance_metrics": {
+    "boot_time_seconds_before": 130,
+    "boot_time_seconds_after": 62,
+    "cpu_idle_percent_before": 22,
+    "cpu_idle_percent_after": 8,
+    "ram_idle_gb_before": 3.2,
+    "ram_idle_gb_after": 2.0,
+    "disk_space_gb_before": 63,
+    "disk_space_gb_after": 71
+  },
+  "date_completed": "2025-10-10",
+  "next_module": "Ubuntu Server Installation"
+}
