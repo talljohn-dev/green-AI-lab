@@ -1,13 +1,10 @@
 🌿 Green AI Lab
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-
 Enterprise-grade cloud and AI infrastructure built from e-waste
 
 Demonstrating sustainable, secure, and scalable architecture practices
+
+Status: 🟢 Active Development | Phase: 2 of 7 | Platform: Ubuntu 24.04 LTS
 
 Architecture • Roadmap • Documentation • Contact
 
@@ -31,21 +28,16 @@ Security Engineering → Zero-trust architecture, encryption, access control, co
 Cost Optimization → Resource efficiency, open-source alternatives, TCO reduction
 🏗️ Architecture
 System Overview
-┌─────────────────────────────────────────────────────────┐
-│                    Internet / WAN                        │
-└────────────────────┬────────────────────────────────────┘
-                     │
-                ┌────▼────┐
-                │ Router  │  (T-Mobile Home Internet)
-                │ Firewall│
-                └────┬────┘
-                     │
-    ┌────────────────┼────────────────┐
-    │                │                │
-┌───▼────┐      ┌───▼────┐      ┌───▼────┐
-│ Node 1 │      │ Node 2 │      │ Node N │
-│ (Cloud)│      │(Mgmt)  │      │(Future)│
-└────────┘      └────────┘      └────────┘
+Network Architecture:
+
+Internet/WAN
+    ↓
+T-Mobile Router (Firewall)
+    ↓
+    ├── Node 1 (HP Notebook) - Ubuntu Server - Cloud Services
+    ├── Node 2 (Surface Book) - Windows 11 - Management
+    ├── APC UPS ES 650 - Power Protection
+    └── Future Nodes - Expansion Ready
 Technology Stack
 Infrastructure Layer
 Operating System: Ubuntu Server 24.04 LTS
