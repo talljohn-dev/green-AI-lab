@@ -1,5 +1,5 @@
 <div align="center">
-🌿 __Green AI Lab__
+🌿Green AI Lab
 <div align="center">
 Enterprise-grade cloud and AI infrastructure built from e-waste
 
